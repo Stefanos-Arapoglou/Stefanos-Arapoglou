@@ -30,6 +30,10 @@ I am a Civil Engineer with a lifetime passion for coding
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="35px"/>
 </div>
 
+---
+
+🎮 My stats
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stefanos-Arapoglou&theme=dark" alt="GitHub Streak" /></a>
 
 
