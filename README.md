@@ -14,11 +14,12 @@
 
 ---
 
-### 👨‍💻: About me
+### :construction_worker:👨‍💻: About me
 I am a Civil Engineer with a lifetime passion for coding
 - 8 years of working experience as Civil Engineer
 - Currently studying IT in Datalabs
 - Aspiring to be a mix of Developer/Civil Engineer
+- Greek 🇬🇷 / Italian / Swiss national
 
 ⚙️ Languages and Tools
 <div>
