@@ -34,10 +34,13 @@ I am a Civil Engineer with a lifetime passion for coding
 
 🎮 My stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Stefanos-Arapoglou&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stefanos-Arapoglou&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanos-Arapoglou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Hi there 👋
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
