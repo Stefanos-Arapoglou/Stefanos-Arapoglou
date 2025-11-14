@@ -1,7 +1,7 @@
 <div align="center">
 <img width="200px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F1Y2ZmZjY4a2Z0c2JsOXg5YmJ1emltem9oMnZ2Nzg3enVlOTl6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   <div>
-<a href="https://www.linkedin.com/in/stefanos-arapogloy/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/stefanos-arapogloy/" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#">
 </a>
 
