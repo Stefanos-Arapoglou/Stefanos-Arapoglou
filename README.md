@@ -5,7 +5,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#">
 </a>
 
-<a href="https://www.youtube.com/@StefanosArapoglou" target="_blank">
+<a href="https://www.youtube.com/@StefanosArapoglou" target="_blank"></a>
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#">
 </a>
 </div>
